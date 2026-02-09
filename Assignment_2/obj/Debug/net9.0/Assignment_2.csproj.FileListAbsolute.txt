@@ -1,0 +1,14 @@
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.AssemblyInfo.cs
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pc\Assignments\Assignment_2\bin\Debug\net9.0\Assignment_2.exe
+C:\Users\Win 10 Pc\Assignments\Assignment_2\bin\Debug\net9.0\Assignment_2.deps.json
+C:\Users\Win 10 Pc\Assignments\Assignment_2\bin\Debug\net9.0\Assignment_2.runtimeconfig.json
+C:\Users\Win 10 Pc\Assignments\Assignment_2\bin\Debug\net9.0\Assignment_2.dll
+C:\Users\Win 10 Pc\Assignments\Assignment_2\bin\Debug\net9.0\Assignment_2.pdb
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.dll
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\refint\Assignment_2.dll
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.pdb
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\Assignment_2.genruntimeconfig.cache
+C:\Users\Win 10 Pc\Assignments\Assignment_2\obj\Debug\net9.0\ref\Assignment_2.dll
