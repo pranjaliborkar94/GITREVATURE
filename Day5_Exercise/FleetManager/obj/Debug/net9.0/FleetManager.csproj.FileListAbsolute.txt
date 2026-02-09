@@ -1,0 +1,14 @@
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.AssemblyInfo.cs
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\bin\Debug\net9.0\FleetManager.exe
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\bin\Debug\net9.0\FleetManager.deps.json
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\bin\Debug\net9.0\FleetManager.runtimeconfig.json
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\bin\Debug\net9.0\FleetManager.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\bin\Debug\net9.0\FleetManager.pdb
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\refint\FleetManager.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.pdb
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\FleetManager.genruntimeconfig.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\FleetManager\obj\Debug\net9.0\ref\FleetManager.dll

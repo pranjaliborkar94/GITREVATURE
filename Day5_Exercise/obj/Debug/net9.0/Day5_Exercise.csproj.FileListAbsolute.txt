@@ -1,0 +1,14 @@
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\bin\Debug\net9.0\Day5_Exercise.exe
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\bin\Debug\net9.0\Day5_Exercise.deps.json
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\bin\Debug\net9.0\Day5_Exercise.runtimeconfig.json
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\bin\Debug\net9.0\Day5_Exercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\bin\Debug\net9.0\Day5_Exercise.pdb
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.AssemblyInfo.cs
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\refint\Day5_Exercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.pdb
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\Day5_Exercise.genruntimeconfig.cache
+C:\Users\Win 10 Pc\Methods&Members\Day5_Exercise\obj\Debug\net9.0\ref\Day5_Exercise.dll
