@@ -1,0 +1,14 @@
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\bin\Debug\net9.0\LabExercise.exe
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\bin\Debug\net9.0\LabExercise.deps.json
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\bin\Debug\net9.0\LabExercise.runtimeconfig.json
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\bin\Debug\net9.0\LabExercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\bin\Debug\net9.0\LabExercise.pdb
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.AssemblyInfo.cs
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\refint\LabExercise.dll
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.pdb
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\LabExercise.genruntimeconfig.cache
+C:\Users\Win 10 Pc\Methods&Members\Lab\LabExercise\obj\Debug\net9.0\ref\LabExercise.dll
