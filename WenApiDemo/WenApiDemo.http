@@ -1,0 +1,6 @@
+@WenApiDemo_HostAddress = http://localhost:5087
+
+GET {{WenApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
